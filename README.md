@@ -12,4 +12,4 @@
 
 ## License
 
-This Template is licensed under the [GNU GENERAL PUBLIC LICENSE]() - see the [LICENSE.md]() file for details.
+This Template is licensed under the [GNU GENERAL PUBLIC LICENSE](https://github.com/hereisadi/NextJs-Template/blob/template/LICENSE) - see the [LICENSE.md](https://github.com/hereisadi/NextJs-Template/blob/template/LICENSE) file for details.
