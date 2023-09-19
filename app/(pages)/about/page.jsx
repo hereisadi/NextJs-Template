@@ -3,8 +3,8 @@ import Link from "next/link";
 import styles from "./about.module.scss";
 
 export const metadata = {
-  title: "SIH-UI | About",
-  description: "SIH-UI",
+  title: " About",
+  description: "About",
 };
 
 const page = () => {
