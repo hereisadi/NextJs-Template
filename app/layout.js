@@ -6,6 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "SIH-UI | Home",
   description: "SIH-UI",
+  manifest: "/manifest.webmanifest",
 };
 
 export default function RootLayout({ children }) {
