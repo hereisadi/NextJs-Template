@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - dev
+      - template
 
   pull_request:
     types: [opened, reopened]

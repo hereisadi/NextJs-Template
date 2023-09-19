@@ -8,6 +8,7 @@
 1. NextJS 13.4 app router
 2. PWA enabled by default
 3. Just use this template, and you're ready to start your work. No need to invest your time in configuring the starter repo.
+4. Github CI enabled by default
 
 ## License
 
