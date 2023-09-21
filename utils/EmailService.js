@@ -11,9 +11,9 @@ const transporter = nodemailer.createTransport({
 const sendEmail = (to, subject, text) => {
   const mailOptions = {
     from: process.env.EMAIL,
-    to: to,
-    subject: subject,
-    text: text,
+    to,
+    subject,
+    text,
   };
 
   transporter.sendMail(mailOptions, (error, info) => {
